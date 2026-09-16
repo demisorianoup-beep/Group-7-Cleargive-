@@ -1,6 +1,5 @@
 # ClearGive Frontend
 
-A simple third-year-level React frontend prototype for:
 
 **ClearGive: A Web-Based Donation and Community Assistance Management System**
 
